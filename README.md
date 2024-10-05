@@ -97,7 +97,7 @@ The model achieves reasonable accuracy in classifying text as hate, offensive, o
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/hate-speech-recognition/issues).
+Contributions, issues, and feature requests are welcome!
 
 ## License
 
