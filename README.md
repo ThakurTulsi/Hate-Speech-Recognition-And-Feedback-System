@@ -28,10 +28,11 @@ The goal of this project is to identify and flag comments that contain hate spee
 
 ## Dataset
 
-The dataset used consists of user comments, where each comment is labeled as (The dataset is downloaded from Kaggle link: https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset?resource=download)
+The dataset used consists of user comments, where each comment is labeled as:
 - **Hate Speech**
 - **Offensive Speech**
 - **Neither Hate nor Offensive**
+The dataset is downloaded from Kaggle and also attached in the files section of the repository. (Link: https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset?resource=download)
 
 Text preprocessing includes:
 - Lowercasing
